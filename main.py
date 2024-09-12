@@ -1,3 +1,6 @@
+# It takes a plain-text message and convert it into cipher text. 
+
+
 from cryptography.fernet import Fernet
 
 def generate_key():
